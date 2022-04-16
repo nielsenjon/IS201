@@ -1,0 +1,56 @@
+body {
+    display: block;
+}
+
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 30px;
+    z-index: 2;
+}
+
+.subheader {
+    float: right;
+}
+
+.main {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.tab-bg {
+    background-image: url('../images/tab-bg.png');
+    background-position: bottom right;
+    background-repeat: repeat;
+    }
+
+.footer {
+    bottom: 5px;
+    height: 50px;
+    left: 5px;
+    right: 5px; 
+    text-align: center;
+    position: fixed;
+}
+
+a:hover {
+    color:aqua;
+}
+
+a:visited {
+    color: rgb(163, 163, 185);
+}
+
+h3 {
+    color: rgb(255, 255, 255);
+}
+
+a {
+    color:blanchedalmond;
+}
+
+p {
+    margin-left: 10px;
+    color:rgb(255, 255, 255);
+}

@@ -20,7 +20,7 @@ body {
 }
 
 .tab-bg {
-    background-image: url('../images/tab-bg.png');
+    background-image: url('../images/tab-bg.png') alt="Tableau Background Image";
     background-position: bottom right;
     background-repeat: repeat;
     }
